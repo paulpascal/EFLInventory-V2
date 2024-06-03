@@ -15,7 +15,7 @@
         "mike42/escpos-php": "^1.6",
         "nao-pon/flysystem-google-drive": "~1.1",
         "phpoffice/phpspreadsheet": "^1.0",
-        "rah/danpu": "2.6.*"
+        "rah/danpu": "2.7.*"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
